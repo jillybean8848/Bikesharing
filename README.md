@@ -19,7 +19,7 @@ As our visualizations show above we can see that more than 75% of users are subs
 # User Trips by Gender and Weekday
 ![UserTripsbyGenderbyWeekday](https://user-images.githubusercontent.com/110632671/204119102-81138839-4b3b-4fc0-b7ce-9f02ae5948e4.png)
 ![TripbyGender_Weekday](https://user-images.githubusercontent.com/110632671/204119135-1a7df499-ae40-43c3-a290-0314981995b4.png)
-![UserTripsbyGenderbyWeekday](https://user-images.githubusercontent.com/110632671/204119145-6d897278-fef1-4b08-9542-2fd852c91805.png)
+![Trips_by_Weekday](https://user-images.githubusercontent.com/110632671/204119835-31930746-cd28-42a7-af14-8037019e4ada.png)
 
 The above charts indicate that the most popular ride times are from 7-9 AM and 5-7PM. Weekend ride times are more popular during the day with larger hours from 10AM-7PM.
 When factoring gender it is again reinforced that riders are typically male. More studies could be done to understand the reasoning behind gender differences.
@@ -34,7 +34,12 @@ This visualization shows that bikes are rented for an hour or less at a time.
 
 This chart indicates that although most renters are male, female renters tend to rent the bike for longer time increments. 
 
+## Conclusion
+In conclusion, bike rentals seem to be performing well in a large city such as NYC. I would speculate that they perform best where driving to work during rush hour traffic is a pain and parking spaces may be hard to find. The market  base is doing well with males and those on a subscribition basis providing regular and reliable payments to the company.
 
+Recommendations based on data:
+ * More studies should be conducted in order to grow the female market
+ * I would also be interested in analyis on age to see what our primary age range is for current users. 
 
 
 
