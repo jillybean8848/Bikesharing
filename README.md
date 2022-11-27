@@ -1,6 +1,9 @@
 # Bikesharing
 An analysis of CitiBike in New York City for August 2019 using Tableau.
 
+Please feel free to view the data in my storyboard! 
+[link to dashboard](LINK GOES HERE "https://public.tableau.com/app/profile/jill6782/viz/CitiBikeVisualizations_16695180925340/Story1")
+
 ## Overview
 The purpose of this project was to analyze bikeshare data from CitiBike in New York City in order to present it to potential investors for a new bikeshare program in Des Moines, Iowa. Although, Des Moines may have some differences from New York City, this analysis might help answer some important questions:
 
